@@ -15,7 +15,7 @@ For each Pokemon of a species you capture in a row, the chain for that Pokemon w
 ## What can break a chain?
 
 - Catching another species that is not the one you are chaining. Evolutions/pre-evolutions are counted as different species for this.
-- Target species running away.
+- Target species running away or manually choosing to run away.
 
 That's it! 
 
@@ -24,6 +24,7 @@ That's it!
 - Encountering another species and running away.
 - Leaving the area and returning. (Can stock back up on Pokeballs if run out!)
 - Battling trainers.
+- Leaving the area and continuing the chain elsewhere.
 
 ## The Chain Stats
 
@@ -44,6 +45,8 @@ Visit Madame Celedon in Celedon City Pokecenter to set the nature you want. All 
 
 Use Lures as often as possible. These increase the amount of Pokemon that spawn and really help with those hard to find Pokemon.
 
+```Note: Lures can be purchased after obtaining the second gym badge from the Pokemart.```
+
 If using Lures move as little as possible. This is because Lures last for a certain amount of steps, so the more you move the more Lures you will use.
 
 If you accidentally run into a different species than the one you're chaining, don't worry, running away will not break the chain.
@@ -53,5 +56,7 @@ Leaving the area to go to a Pokemart to buy more Pokeballs or Lures will not bre
 When in the capture screen you can see what chain number you are on in the upper left.
 
 ## Notes
+
+*Updated 11/16 with new info*
 
 This information may change as more is discovered. The above is everything I've discovered so far while chaining for Pokemon.
