@@ -16,7 +16,7 @@ For each Pokemon of a species you capture in a row, the chain for that Pokemon w
 ## What can break a chain?
 
 - Catching another species that is not the one you are chaining. Evolutions/pre-evolutions are counted as different species for this.
-- Target species running away.
+- Target species or other species running away.
 - Turning the game off (suspending the game keeps the chain).
 
 That's it! 
@@ -27,6 +27,7 @@ That's it!
 - Leaving the area and returning. (Can stock back up on Pokeballs if run out!)
 - Battling trainers.
 - Leaving the area and continuing the chain elsewhere.
+- Catching Pokemon from Go Park and then leaving to chain the same species elsewhere also does not break a chain.
 
 ## Benefits of chaining
 
@@ -42,13 +43,12 @@ The `# of 31 IVs` column refers to the number of IVs that will be 31. This means
 
 ### Shiny Rates
 
-| Chain # | Shiny Rate |
-| 0-10 | 1/4096 |
-| 11-20 | 1/1024 |
-| 21-30 | 1/512 |
-| 31+ | 1/341.3 |
+| Chain # | Shiny Rate | With Shiny Charm |
+| 0-10 | 1/4096 | 1/1365.3 |
+| 11-20 | 1/1024 | 1/682.6 |
+| 21-30 | 1/512 | 1/409.6 |
+| 31+ | 1/341.3 | 1/292.57 |
 
-The numbers above are the chances of a Pokemon being shiny. These do not take into account the effects of having the Shiny Charm or using Lures.
 
 ### Candies and Catch Bonuses
 
@@ -60,11 +60,11 @@ The same goes for catching Pokemon. The more of a species you have caught in tot
 
 Not only do Lures increase the number of Pokemon that spawn, they also increase the shiny rates while in effect.
 
-| Chain # | Shiny Rate with Lure |
-| 0-10 | 1/2048 |
-| 11-20 | 1/819.2 |
-| 21-30 | 1/455.1 |
-| 31+ | 1/315.08 |
+| Chain # | Shiny Rate with Lure | with Shiny Charm also |
+| 0-10 | 1/2048 | 1/1024 |
+| 11-20 | 1/819.2 | 1/585.14 |
+| 21-30 | 1/455.1 | 1/372.36 |
+| 31+ | 1/315.08 | 1/273.07 |
 
 ## Optimal Chaining
 
